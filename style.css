@@ -34,6 +34,8 @@ h1 {
 
 body {
   background-image: url("images/candy-crush-background-2.png");
+  background-size: cover;
+  background-repeat: no-repeat;
   max-width: 100vh;
   display: flex;
 }
